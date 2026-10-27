@@ -172,4 +172,4 @@ async def on_message(message):
     await bot.process_commands(message)
 
 # 봇 실행
-bot.run("")
+bot.run("DISCORD_TOKEN")
