@@ -172,4 +172,4 @@ async def on_message(message):
     await bot.process_commands(message)
 
 # 봇 실행
-bot.run("MTU1MzA0NDI4MzMwMzUzMDUyNg.Gfs_3h.j8MwmDujmKq_gBQv1pd4jWJIzzdS6Ai-bcTZfg")
+bot.run("")
